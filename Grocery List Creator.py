@@ -68,7 +68,7 @@ def items_list():
 
     while True:
         os.system(clear_screen)
-        grocery_list=input(text_colours[2]+sentence[0].title()
+        grocery_list=input(text_colours[5]+sentence[0].title()
         +sentence[1]+sentence[2]).strip()
         user_input_item_data.append(grocery_list)
 
