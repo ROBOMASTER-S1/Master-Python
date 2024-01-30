@@ -1,4 +1,4 @@
-import os,time,math
+import os,math
 
 text_features=(
     'cls', # index 0 = clear screen
